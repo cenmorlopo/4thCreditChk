@@ -1,0 +1,84 @@
+name: BEU Credit Extractor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+concurrency:
+  group: beu-credit-extractor
+  cancel-in-progress: false
+
+jobs:
+  extract-credit:
+    runs-on: windows-2025
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        shell: pwsh
+        run: |
+          npm install
+
+      - name: Ensure base files exist
+        shell: pwsh
+        run: |
+          if (!(Test-Path "credit_state.json")) { '{"taskIndex":0}' | Out-File -Encoding utf8 credit_state.json }
+          if (!(Test-Path "credit_seen.txt")) { New-Item -ItemType File credit_seen.txt | Out-Null }
+          if (!(Test-Path "credit_failed.txt")) { New-Item -ItemType File credit_failed.txt | Out-Null }
+          if (!(Test-Path "credit_log.txt")) { New-Item -ItemType File credit_log.txt | Out-Null }
+          if (!(Test-Path "credit_raw.txt")) { "batch | sem | reg_no | branch_code | branch_name | subject_type | subject_code | subject_name | credit" | Out-File -Encoding utf8 credit_raw.txt }
+          if (!(Test-Path "credit_master.txt")) { "sem | branch_code | branch_name | subject_code | credit | total_sem_credit | status | sample_reg_nos" | Out-File -Encoding utf8 credit_master.txt }
+          if (!(Test-Path "credit_duplicates.txt")) { "sem | branch_code | subject_code | credit | duplicate_reg_nos" | Out-File -Encoding utf8 credit_duplicates.txt }
+          if (!(Test-Path "credit_mismatches.txt")) { "sem | branch_code | subject_code | issue | seen_values | sample_reg_nos" | Out-File -Encoding utf8 credit_mismatches.txt }
+          if (!(Test-Path "credit_totals.txt")) { "sem | branch_code | branch_name | total_sem_credit | status | sample_reg_nos" | Out-File -Encoding utf8 credit_totals.txt }
+          if (!(Test-Path "credit_total_mismatches.txt")) { "sem | branch_code | issue | seen_total_values | sample_reg_nos" | Out-File -Encoding utf8 credit_total_mismatches.txt }
+          if (!(Test-Path "credit_sem_summary.txt")) { "batch | sem | reg_no | branch_code | branch_name | student_name | course_name | sgpa_i | sgpa_ii | sgpa_iii | sgpa_iv | sgpa_v | sgpa_vi | sgpa_vii | sgpa_viii | shown_sgpa | shown_cgpa" | Out-File -Encoding utf8 credit_sem_summary.txt }
+
+      - name: Run extractor
+        id: extract
+        continue-on-error: true
+        shell: pwsh
+        run: |
+          node extract_credit_master.js
+
+      - name: Commit and push progress
+        if: always()
+        shell: pwsh
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin main
+
+          git add credit_raw.txt credit_master.txt credit_duplicates.txt credit_mismatches.txt credit_totals.txt credit_total_mismatches.txt credit_sem_summary.txt credit_failed.txt credit_log.txt credit_state.json credit_seen.txt
+
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            Write-Host "No changes to commit."
+            exit 0
+          }
+
+          git commit -m "Auto-update: credit extractor progress"
+          git push origin HEAD:main
+
+      - name: Show extractor status
+        if: always()
+        shell: pwsh
+        run: |
+          if ("${{ steps.extract.outcome }}" -eq "failure") {
+            Write-Host "Extractor failed, but progress was committed."
+          } else {
+            Write-Host "Extractor completed successfully."
+          }
