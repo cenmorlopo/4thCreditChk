@@ -94,3 +94,7 @@
 [2026-03-27T18:20:15.667Z] [91/92] 22157127020|III -> OK | branch=157 | sem=III | subjects=9
 [2026-03-27T18:20:16.642Z] [92/92] 22157127020|IV -> OK | branch=157 | sem=IV | subjects=10
 [2026-03-27T18:20:17.349Z] COMPLETE all tasks finished
+[2026-03-27T19:53:57.305Z] Loaded 23 input rows
+[2026-03-27T19:53:57.307Z] Built 92 semester tasks
+[2026-03-27T19:53:57.307Z] Resuming from taskIndex=92
+[2026-03-27T19:53:57.315Z] COMPLETE all tasks finished
