@@ -1,0 +1,93 @@
+sem | branch_code | branch_name | total_sem_credit | status | sample_reg_nos
+III | 101 | Civil Engineering | 24 | MATCH | 22101127003
+III | 102 | Mechanical Engineering | 25 | MATCH | 22102102001
+III | 103 | Electrical Engineering | 26 | MATCH | 22103106006
+III | 104 | Electronics & Communication Engineering | 26 | MATCH | 22104134040
+III | 105 | Computer Science & Engineering | 24 | MATCH | 22105102005
+III | 106 | Information Technology | 29 | MATCH | 22106107016
+III | 107 | Leather Technology Engineering | 23 | MATCH | 22107107001
+III | 110 | Electrical & Electronics Engineering | 25 | MATCH | 22110103006
+III | 112 | Fire Technology and Safety | 25 | MATCH | 22112111002
+III | 113 | Mining Engineering | 22 | MATCH | 22113124012
+III | 114 | Chemical Engineering | 22 | MATCH | 22114125006
+III | 115 | Food Processing and Preservation | 26 | MATCH | 22115117003
+III | 116 | Aeronautical Engineering | 22 | MATCH | 22116109002
+III | 117 | Biomedical and Robotic Engineering | 24 | MATCH | 22117107001
+III | 118 | 3-D Animation and Graphics | 23 | MATCH | 22118128004
+III | 119 | Civil Engineering With Computer Application | 25 | MATCH | 22119113008
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 24 | MATCH | 22151113025
+III | 152 | Computer Science and Engineering (Cyber Security) | 24 | MATCH | 22152146021
+III | 153 | Computer Science and Engineering (Data Science) | 24 | MATCH | 22153132004
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 24 | MATCH | 22154149007
+III | 155 | Computer Science and Engineering (Internet of Things) | 24 | MATCH | 22155126022
+III | 156 | Computer Science and Engineering (Networks) | 24 | MATCH | 22156148013
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 24 | MATCH | 22157127020
+II | 101 | Civil Engineering | 20.5 | MATCH | 22101127003
+II | 102 | Mechanical Engineering | 20.5 | MATCH | 22102102001
+II | 103 | Electrical Engineering | 17.5 | MATCH | 22103106006
+II | 104 | Electronics & Communication Engineering | 17.5 | MATCH | 22104134040
+II | 105 | Computer Science & Engineering | 17.5 | MATCH | 22105102005
+II | 106 | Information Technology | 20.5 | MATCH | 22106107016
+II | 107 | Leather Technology Engineering | 20.5 | MATCH | 22107107001
+II | 110 | Electrical & Electronics Engineering | 17.5 | MATCH | 22110103006
+II | 112 | Fire Technology and Safety | 20.5 | MATCH | 22112111002
+II | 113 | Mining Engineering | 20.5 | MATCH | 22113124012
+II | 114 | Chemical Engineering | 17.5 | MATCH | 22114125006
+II | 115 | Food Processing and Preservation | 20.5 | MATCH | 22115117003
+II | 116 | Aeronautical Engineering | 20.5 | MATCH | 22116109002
+II | 117 | Biomedical and Robotic Engineering | 17.5 | MATCH | 22117107001
+II | 118 | 3-D Animation and Graphics | 17.5 | MATCH | 22118128004
+II | 119 | Civil Engineering With Computer Application | 20.5 | MATCH | 22119113008
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 17.5 | MATCH | 22151113025
+II | 152 | Computer Science and Engineering (Cyber Security) | 17.5 | MATCH | 22152146021
+II | 153 | Computer Science and Engineering (Data Science) | 17.5 | MATCH | 22153132004
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 17.5 | MATCH | 22154149007
+II | 155 | Computer Science and Engineering (Internet of Things) | 17.5 | MATCH | 22155126022
+II | 156 | Computer Science and Engineering (Networks) | 17.5 | MATCH | 22156148013
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 17.5 | MATCH | 22157127020
+IV | 101 | Civil Engineering | 26 | MATCH | 22101127003
+IV | 102 | Mechanical Engineering | 23 | MATCH | 22102102001
+IV | 103 | Electrical Engineering | 22 | MATCH | 22103106006
+IV | 104 | Electronics & Communication Engineering | 23 | MATCH | 22104134040
+IV | 105 | Computer Science & Engineering | 27 | MATCH | 22105102005
+IV | 106 | Information Technology | 22 | MATCH | 22106107016
+IV | 107 | Leather Technology Engineering | 20 | MATCH | 22107107001
+IV | 110 | Electrical & Electronics Engineering | 24 | MATCH | 22110103006
+IV | 112 | Fire Technology and Safety | 20 | MATCH | 22112111002
+IV | 113 | Mining Engineering | 20 | MATCH | 22113124012
+IV | 114 | Chemical Engineering | 21 | MATCH | 22114125006
+IV | 115 | Food Processing and Preservation | 20 | MATCH | 22115117003
+IV | 116 | Aeronautical Engineering | 19.5 | MATCH | 22116109002
+IV | 117 | Biomedical and Robotic Engineering | 20 | MATCH | 22117107001
+IV | 118 | 3-D Animation and Graphics | 21 | MATCH | 22118128004
+IV | 119 | Civil Engineering With Computer Application | 22 | MATCH | 22119113008
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 27 | MATCH | 22151113025
+IV | 152 | Computer Science and Engineering (Cyber Security) | 27 | MATCH | 22152146021
+IV | 153 | Computer Science and Engineering (Data Science) | 27 | MATCH | 22153132004
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 27 | MATCH | 22154149007
+IV | 155 | Computer Science and Engineering (Internet of Things) | 27 | MATCH | 22155126022
+IV | 156 | Computer Science and Engineering (Networks) | 27 | MATCH | 22156148013
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 27 | MATCH | 22157127020
+I | 101 | Civil Engineering | 17.5 | MATCH | 22101127003
+I | 102 | Mechanical Engineering | 17.5 | MATCH | 22102102001
+I | 103 | Electrical Engineering | 20.5 | MATCH | 22103106006
+I | 104 | Electronics & Communication Engineering | 20.5 | MATCH | 22104134040
+I | 105 | Computer Science & Engineering | 20.5 | MATCH | 22105102005
+I | 106 | Information Technology | 17.5 | MATCH | 22106107016
+I | 107 | Leather Technology Engineering | 17.5 | MATCH | 22107107001
+I | 110 | Electrical & Electronics Engineering | 20.5 | MATCH | 22110103006
+I | 112 | Fire Technology and Safety | 17.5 | MATCH | 22112111002
+I | 113 | Mining Engineering | 17.5 | MATCH | 22113124012
+I | 114 | Chemical Engineering | 20.5 | MATCH | 22114125006
+I | 115 | Food Processing and Preservation | 17.5 | MATCH | 22115117003
+I | 116 | Aeronautical Engineering | 17.5 | MATCH | 22116109002
+I | 117 | Biomedical and Robotic Engineering | 20.5 | MATCH | 22117107001
+I | 118 | 3-D Animation and Graphics | 20.5 | MATCH | 22118128004
+I | 119 | Civil Engineering With Computer Application | 17.5 | MATCH | 22119113008
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 20.5 | MATCH | 22151113025
+I | 152 | Computer Science and Engineering (Cyber Security) | 20.5 | MATCH | 22152146021
+I | 153 | Computer Science and Engineering (Data Science) | 20.5 | MATCH | 22153132004
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 20.5 | MATCH | 22154149007
+I | 155 | Computer Science and Engineering (Internet of Things) | 20.5 | MATCH | 22155126022
+I | 156 | Computer Science and Engineering (Networks) | 20.5 | MATCH | 22156148013
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 20.5 | MATCH | 22157127020
