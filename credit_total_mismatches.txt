@@ -1,0 +1,1 @@
+sem | branch_code | issue | seen_total_values | sample_reg_nos

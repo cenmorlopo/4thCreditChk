@@ -1,0 +1,780 @@
+sem | branch_code | branch_name | subject_code | credit | total_sem_credit | status | sample_reg_nos
+III | 101 | Civil Engineering | 100301 | 2.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 100312 | 2.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 100399P | 4.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101302 | 1.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101302P | 1.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101303 | 1.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101303P | 1.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101304 | 4.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101305 | 3.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101306 | 2.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101308 | 2.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 101 | Civil Engineering | 101308P | 1.00 | 24 | DUPLICATE_SUPPORT | 21101103002,22101127003
+III | 102 | Mechanical Engineering | 100301 | 3.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 102 | Mechanical Engineering | 100303 | 4.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 102 | Mechanical Engineering | 100309 | 3.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 102 | Mechanical Engineering | 100309P | 1.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 102 | Mechanical Engineering | 100312 | 4.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 102 | Mechanical Engineering | 100399P | 4.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 102 | Mechanical Engineering | 102302P | 2.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 102 | Mechanical Engineering | 102304 | 4.00 | 25 | DUPLICATE_SUPPORT | 21102102004,22102102001
+III | 103 | Electrical Engineering | 100302 | 3.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100302P | 1.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100306 | 4.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100306P | 1.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100307 | 4.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100307P | 1.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100308 | 4.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100310 | 4.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 103 | Electrical Engineering | 100399P | 4.00 | 26 | DUPLICATE_SUPPORT | 21103106001,22103106006
+III | 104 | Electronics & Communication Engineering | 100313 | 3.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 100313P | 1.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 100399P | 4.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 104301 | 3.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 104301P | 1.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 104302 | 3.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 104302P | 1.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 104303 | 3.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 104304 | 4.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 104 | Electronics & Communication Engineering | 104305 | 3.00 | 26 | DUPLICATE_SUPPORT | 21104102001,22104134040
+III | 105 | Computer Science & Engineering | 100302 | 3.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100302P | 2.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100304 | 3.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100304P | 2.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100311 | 2.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100313 | 3.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100313P | 2.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100314 | 3.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 105 | Computer Science & Engineering | 100399P | 4.00 | 24 | DUPLICATE_SUPPORT | 21105106003,22105102005
+III | 106 | Information Technology | 100304 | 3.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100304P | 2.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100305 | 3.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100305P | 2.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100311 | 3.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100313 | 3.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100313P | 2.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100314 | 3.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 100399P | 4.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 106 | Information Technology | 106301 | 4.00 | 29 | DUPLICATE_SUPPORT | 21106107018,22106107016
+III | 107 | Leather Technology Engineering | 100303 | 4.00 | 23 | DUPLICATE_SUPPORT | 21107107005,22107107001
+III | 107 | Leather Technology Engineering | 100309 | 4.00 | 23 | DUPLICATE_SUPPORT | 21107107005,22107107001
+III | 107 | Leather Technology Engineering | 100312 | 4.00 | 23 | DUPLICATE_SUPPORT | 21107107005,22107107001
+III | 107 | Leather Technology Engineering | 100399P | 4.00 | 23 | DUPLICATE_SUPPORT | 21107107005,22107107001
+III | 107 | Leather Technology Engineering | 107301 | 4.00 | 23 | DUPLICATE_SUPPORT | 21107107005,22107107001
+III | 107 | Leather Technology Engineering | 107302 | 3.00 | 23 | DUPLICATE_SUPPORT | 21107107005,22107107001
+III | 110 | Electrical & Electronics Engineering | 100305 | 3.00 | 25 | MATCH | 22110103006
+III | 110 | Electrical & Electronics Engineering | 100306 | 4.00 | 25 | MATCH | 22110103006
+III | 110 | Electrical & Electronics Engineering | 100307 | 3.00 | 25 | MATCH | 22110103006
+III | 110 | Electrical & Electronics Engineering | 100307P | 1.00 | 25 | MATCH | 22110103006
+III | 110 | Electrical & Electronics Engineering | 100308 | 4.00 | 25 | MATCH | 22110103006
+III | 110 | Electrical & Electronics Engineering | 100310 | 4.00 | 25 | MATCH | 22110103006
+III | 110 | Electrical & Electronics Engineering | 100399P | 4.00 | 25 | MATCH | 22110103006
+III | 110 | Electrical & Electronics Engineering | 110301P | 2.00 | 25 | MATCH | 22110103006
+III | 112 | Fire Technology and Safety | 112301 | 3.00 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112301P | 1.50 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112302 | 3.00 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112303 | 3.00 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112303P | 1.50 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112304 | 3.00 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112304P | 1.50 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112305 | 3.00 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112305P | 1.50 | 25 | MATCH | 22112111002
+III | 112 | Fire Technology and Safety | 112306 | 4.00 | 25 | MATCH | 22112111002
+III | 113 | Mining Engineering | 113301 | 3.00 | 22 | MATCH | 22113124012
+III | 113 | Mining Engineering | 113302 | 3.00 | 22 | MATCH | 22113124012
+III | 113 | Mining Engineering | 113303 | 3.00 | 22 | MATCH | 22113124012
+III | 113 | Mining Engineering | 113304 | 3.00 | 22 | MATCH | 22113124012
+III | 113 | Mining Engineering | 113304P | 1.50 | 22 | MATCH | 22113124012
+III | 113 | Mining Engineering | 113305 | 3.00 | 22 | MATCH | 22113124012
+III | 113 | Mining Engineering | 113305P | 1.50 | 22 | MATCH | 22113124012
+III | 113 | Mining Engineering | 113306 | 4.00 | 22 | MATCH | 22113124012
+III | 114 | Chemical Engineering | 114301 | 3.00 | 22 | MATCH | 22114125006
+III | 114 | Chemical Engineering | 114302 | 3.00 | 22 | MATCH | 22114125006
+III | 114 | Chemical Engineering | 114303 | 3.00 | 22 | MATCH | 22114125006
+III | 114 | Chemical Engineering | 114303p | 1.50 | 22 | MATCH | 22114125006
+III | 114 | Chemical Engineering | 114304 | 3.00 | 22 | MATCH | 22114125006
+III | 114 | Chemical Engineering | 114305 | 3.00 | 22 | MATCH | 22114125006
+III | 114 | Chemical Engineering | 114305p | 1.50 | 22 | MATCH | 22114125006
+III | 114 | Chemical Engineering | 114306 | 4.00 | 22 | MATCH | 22114125006
+III | 115 | Food Processing and Preservation | 115301 | 4.00 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115302 | 3.00 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115302P | 1.50 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115303 | 3.00 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115303P | 1.50 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115304 | 3.00 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115304P | 1.50 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115305 | 4.00 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115306 | 3.00 | 26 | MATCH | 22115117003
+III | 115 | Food Processing and Preservation | 115306P | 1.50 | 26 | MATCH | 22115117003
+III | 116 | Aeronautical Engineering | 116301 | 3.00 | 22 | MATCH | 22116109002
+III | 116 | Aeronautical Engineering | 116302 | 3.00 | 22 | MATCH | 22116109002
+III | 116 | Aeronautical Engineering | 116302p | 1.50 | 22 | MATCH | 22116109002
+III | 116 | Aeronautical Engineering | 116303 | 4.00 | 22 | MATCH | 22116109002
+III | 116 | Aeronautical Engineering | 116303p | 2.00 | 22 | MATCH | 22116109002
+III | 116 | Aeronautical Engineering | 116304 | 3.00 | 22 | MATCH | 22116109002
+III | 116 | Aeronautical Engineering | 116304p | 1.50 | 22 | MATCH | 22116109002
+III | 116 | Aeronautical Engineering | 116305 | 4.00 | 22 | MATCH | 22116109002
+III | 117 | Biomedical and Robotic Engineering | 117301 | 3.00 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117302 | 3.00 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117302p | 2.00 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117303 | 3.00 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117304 | 3.00 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117304p | 1.50 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117305 | 3.00 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117305p | 1.50 | 24 | MATCH | 22117107003
+III | 117 | Biomedical and Robotic Engineering | 117306 | 4.00 | 24 | MATCH | 22117107003
+III | 118 | 3-D Animation and Graphics | 118301 | 4.00 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118301p | 1.50 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118302 | 3.00 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118302p | 1.50 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118303 | 3.00 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118304 | 4.00 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118304p | 1.50 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118305 | 3.00 | 23 | MATCH | 22118128004
+III | 118 | 3-D Animation and Graphics | 118305p | 1.50 | 23 | MATCH | 22118128004
+III | 119 | Civil Engineering With Computer Application | 119301 | 2.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119302 | 1.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119302P | 1.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119303 | 1.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119303P | 1.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119304 | 4.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119305 | 3.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119306 | 3.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119307 | 2.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119308 | 2.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119308P | 1.00 | 25 | MATCH | 22119113008
+III | 119 | Civil Engineering With Computer Application | 119309P | 4.00 | 25 | MATCH | 22119113008
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100302 | 3.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100302P | 2.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100304 | 3.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100304P | 2.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100311 | 2.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100313 | 3.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100313P | 2.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100314 | 3.00 | 24 | MATCH | 22151113025
+III | 151 | Computer Science and Engineering (Artificial Intelligence) | 100399P | 4.00 | 24 | MATCH | 22151113025
+III | 152 | Computer Science and Engineering (Cyber Security) | 100302 | 3.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100302P | 2.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100304 | 3.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100304P | 2.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100311 | 2.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100313 | 3.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100313P | 2.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100314 | 3.00 | 24 | MATCH | 22152146021
+III | 152 | Computer Science and Engineering (Cyber Security) | 100399P | 4.00 | 24 | MATCH | 22152146021
+III | 153 | Computer Science and Engineering (Data Science) | 100302 | 3.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100302P | 2.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100304 | 3.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100304P | 2.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100311 | 2.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100313 | 3.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100313P | 2.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100314 | 3.00 | 24 | MATCH | 22153132004
+III | 153 | Computer Science and Engineering (Data Science) | 100399P | 4.00 | 24 | MATCH | 22153132004
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100302 | 3.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100302P | 2.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100304 | 3.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100304P | 2.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100311 | 2.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100313 | 3.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100313P | 2.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100314 | 3.00 | 24 | MATCH | 22154149007
+III | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100399P | 4.00 | 24 | MATCH | 22154149007
+III | 155 | Computer Science and Engineering (Internet of Things) | 100302 | 3.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100302P | 2.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100304 | 3.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100304P | 2.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100311 | 2.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100313 | 3.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100313P | 2.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100314 | 3.00 | 24 | MATCH | 22155126022
+III | 155 | Computer Science and Engineering (Internet of Things) | 100399P | 4.00 | 24 | MATCH | 22155126022
+III | 156 | Computer Science and Engineering (Networks) | 100302 | 3.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100302P | 2.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100304 | 3.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100304P | 2.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100311 | 2.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100313 | 3.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100313P | 2.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100314 | 3.00 | 24 | MATCH | 22156148013
+III | 156 | Computer Science and Engineering (Networks) | 100399P | 4.00 | 24 | MATCH | 22156148013
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100302 | 3.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100302P | 2.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100304 | 3.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100304P | 2.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100311 | 2.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100313 | 3.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100313P | 2.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100314 | 3.00 | 24 | MATCH | 22157127020
+III | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100399P | 4.00 | 24 | MATCH | 22157127020
+II | 101 | Civil Engineering | 100203 | 4.00 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 100203P | 1.50 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 100204 | 3.00 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 100204P | 2.00 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 100205 | 1.00 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 100205P | 2.00 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 100206 | 2.00 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 100206P | 1.00 | 20.5 | MATCH | 22101127003
+II | 101 | Civil Engineering | 101202 | 4.00 | 20.5 | MATCH | 22101127003
+II | 102 | Mechanical Engineering | 100203 | 4.00 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 100203P | 1.50 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 100204 | 3.00 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 100204P | 2.00 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 100205 | 1.00 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 100205P | 2.00 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 100206 | 2.00 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 100206P | 1.00 | 20.5 | MATCH | 22102102001
+II | 102 | Mechanical Engineering | 102202 | 4.00 | 20.5 | MATCH | 22102102001
+II | 103 | Electrical Engineering | 100201 | 4.00 | 17.5 | MATCH | 22103106006
+II | 103 | Electrical Engineering | 100201P | 1.00 | 17.5 | MATCH | 22103106006
+II | 103 | Electrical Engineering | 100202 | 1.00 | 17.5 | MATCH | 22103106006
+II | 103 | Electrical Engineering | 100202P | 2.00 | 17.5 | MATCH | 22103106006
+II | 103 | Electrical Engineering | 103201 | 4.00 | 17.5 | MATCH | 22103106006
+II | 103 | Electrical Engineering | 103201P | 1.50 | 17.5 | MATCH | 22103106006
+II | 103 | Electrical Engineering | 103202 | 4.00 | 17.5 | MATCH | 22103106006
+II | 104 | Electronics & Communication Engineering | 100201 | 4.00 | 17.5 | MATCH | 22104134040
+II | 104 | Electronics & Communication Engineering | 100201P | 1.00 | 17.5 | MATCH | 22104134040
+II | 104 | Electronics & Communication Engineering | 100202 | 1.00 | 17.5 | MATCH | 22104134040
+II | 104 | Electronics & Communication Engineering | 100202P | 2.00 | 17.5 | MATCH | 22104134040
+II | 104 | Electronics & Communication Engineering | 103201 | 4.00 | 17.5 | MATCH | 22104134040
+II | 104 | Electronics & Communication Engineering | 103201P | 1.50 | 17.5 | MATCH | 22104134040
+II | 104 | Electronics & Communication Engineering | 103202 | 4.00 | 17.5 | MATCH | 22104134040
+II | 105 | Computer Science & Engineering | 100201 | 4.00 | 17.5 | MATCH | 22105102005
+II | 105 | Computer Science & Engineering | 100201P | 1.00 | 17.5 | MATCH | 22105102005
+II | 105 | Computer Science & Engineering | 100202 | 1.00 | 17.5 | MATCH | 22105102005
+II | 105 | Computer Science & Engineering | 100202P | 2.00 | 17.5 | MATCH | 22105102005
+II | 105 | Computer Science & Engineering | 105201 | 4.00 | 17.5 | MATCH | 22105102005
+II | 105 | Computer Science & Engineering | 105201P | 1.50 | 17.5 | MATCH | 22105102005
+II | 105 | Computer Science & Engineering | 105202 | 4.00 | 17.5 | MATCH | 22105102005
+II | 106 | Information Technology | 100203 | 4.00 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 100203P | 1.50 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 100204 | 3.00 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 100204P | 2.00 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 100205 | 1.00 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 100205P | 2.00 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 100206 | 2.00 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 100206P | 1.00 | 20.5 | MATCH | 22106107016
+II | 106 | Information Technology | 105202 | 4.00 | 20.5 | MATCH | 22106107016
+II | 107 | Leather Technology Engineering | 100203 | 4.00 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 100203P | 1.50 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 100204 | 3.00 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 100204P | 2.00 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 100205 | 1.00 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 100205P | 2.00 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 100206 | 2.00 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 100206P | 1.00 | 20.5 | MATCH | 22107107001
+II | 107 | Leather Technology Engineering | 102202 | 4.00 | 20.5 | MATCH | 22107107001
+II | 110 | Electrical & Electronics Engineering | 100201 | 4.00 | 17.5 | MATCH | 22110103006
+II | 110 | Electrical & Electronics Engineering | 100201P | 1.00 | 17.5 | MATCH | 22110103006
+II | 110 | Electrical & Electronics Engineering | 100202 | 1.00 | 17.5 | MATCH | 22110103006
+II | 110 | Electrical & Electronics Engineering | 100202P | 2.00 | 17.5 | MATCH | 22110103006
+II | 110 | Electrical & Electronics Engineering | 103201 | 4.00 | 17.5 | MATCH | 22110103006
+II | 110 | Electrical & Electronics Engineering | 103201P | 1.50 | 17.5 | MATCH | 22110103006
+II | 110 | Electrical & Electronics Engineering | 103202 | 4.00 | 17.5 | MATCH | 22110103006
+II | 112 | Fire Technology and Safety | 100203 | 4.00 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 100203P | 1.50 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 100204 | 3.00 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 100204P | 2.00 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 100205 | 1.00 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 100205P | 2.00 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 100206 | 2.00 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 100206P | 1.00 | 20.5 | MATCH | 22112111002
+II | 112 | Fire Technology and Safety | 102202 | 4.00 | 20.5 | MATCH | 22112111002
+II | 113 | Mining Engineering | 100203 | 4.00 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 100203P | 1.50 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 100204 | 3.00 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 100204P | 2.00 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 100205 | 1.00 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 100205P | 2.00 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 100206 | 2.00 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 100206P | 1.00 | 20.5 | MATCH | 22113124012
+II | 113 | Mining Engineering | 102202 | 4.00 | 20.5 | MATCH | 22113124012
+II | 114 | Chemical Engineering | 100201 | 4.00 | 17.5 | MATCH | 22114125006
+II | 114 | Chemical Engineering | 100201P | 1.00 | 17.5 | MATCH | 22114125006
+II | 114 | Chemical Engineering | 100202 | 1.00 | 17.5 | MATCH | 22114125006
+II | 114 | Chemical Engineering | 100202P | 2.00 | 17.5 | MATCH | 22114125006
+II | 114 | Chemical Engineering | 103201 | 4.00 | 17.5 | MATCH | 22114125006
+II | 114 | Chemical Engineering | 103201P | 1.50 | 17.5 | MATCH | 22114125006
+II | 114 | Chemical Engineering | 103202 | 4.00 | 17.5 | MATCH | 22114125006
+II | 115 | Food Processing and Preservation | 100203 | 4.00 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 100203P | 1.50 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 100204 | 3.00 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 100204P | 2.00 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 100205 | 1.00 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 100205P | 2.00 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 100206 | 2.00 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 100206P | 1.00 | 20.5 | MATCH | 22115117003
+II | 115 | Food Processing and Preservation | 101202 | 4.00 | 20.5 | MATCH | 22115117003
+II | 116 | Aeronautical Engineering | 100203 | 4.00 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 100203P | 1.50 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 100204 | 3.00 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 100204P | 2.00 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 100205 | 1.00 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 100205P | 2.00 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 100206 | 2.00 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 100206P | 1.00 | 20.5 | MATCH | 22116109002
+II | 116 | Aeronautical Engineering | 102202 | 4.00 | 20.5 | MATCH | 22116109002
+II | 117 | Biomedical and Robotic Engineering | 100201 | 4.00 | 17.5 | MATCH | 22117107003
+II | 117 | Biomedical and Robotic Engineering | 100201P | 1.00 | 17.5 | MATCH | 22117107003
+II | 117 | Biomedical and Robotic Engineering | 100202 | 1.00 | 17.5 | MATCH | 22117107003
+II | 117 | Biomedical and Robotic Engineering | 100202P | 2.00 | 17.5 | MATCH | 22117107003
+II | 117 | Biomedical and Robotic Engineering | 103201 | 4.00 | 17.5 | MATCH | 22117107003
+II | 117 | Biomedical and Robotic Engineering | 103201P | 1.50 | 17.5 | MATCH | 22117107003
+II | 117 | Biomedical and Robotic Engineering | 103202 | 4.00 | 17.5 | MATCH | 22117107003
+II | 118 | 3-D Animation and Graphics | 100201 | 4.00 | 17.5 | MATCH | 22118128004
+II | 118 | 3-D Animation and Graphics | 100201P | 1.00 | 17.5 | MATCH | 22118128004
+II | 118 | 3-D Animation and Graphics | 100202 | 1.00 | 17.5 | MATCH | 22118128004
+II | 118 | 3-D Animation and Graphics | 100202P | 2.00 | 17.5 | MATCH | 22118128004
+II | 118 | 3-D Animation and Graphics | 105201 | 4.00 | 17.5 | MATCH | 22118128004
+II | 118 | 3-D Animation and Graphics | 105201P | 1.50 | 17.5 | MATCH | 22118128004
+II | 118 | 3-D Animation and Graphics | 105202 | 4.00 | 17.5 | MATCH | 22118128004
+II | 119 | Civil Engineering With Computer Application | 100203 | 4.00 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 100203P | 1.50 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 100204 | 3.00 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 100204P | 2.00 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 100205 | 1.00 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 100205P | 2.00 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 100206 | 2.00 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 100206P | 1.00 | 20.5 | MATCH | 22119113008
+II | 119 | Civil Engineering With Computer Application | 101202 | 4.00 | 20.5 | MATCH | 22119113008
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100201 | 4.00 | 17.5 | MATCH | 22151113025
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100201P | 1.00 | 17.5 | MATCH | 22151113025
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100202 | 1.00 | 17.5 | MATCH | 22151113025
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100202P | 2.00 | 17.5 | MATCH | 22151113025
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 105201 | 4.00 | 17.5 | MATCH | 22151113025
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 105201P | 1.50 | 17.5 | MATCH | 22151113025
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 105202 | 4.00 | 17.5 | MATCH | 22151113025
+II | 152 | Computer Science and Engineering (Cyber Security) | 100201 | 4.00 | 17.5 | MATCH | 22152146021
+II | 152 | Computer Science and Engineering (Cyber Security) | 100201P | 1.00 | 17.5 | MATCH | 22152146021
+II | 152 | Computer Science and Engineering (Cyber Security) | 100202 | 1.00 | 17.5 | MATCH | 22152146021
+II | 152 | Computer Science and Engineering (Cyber Security) | 100202P | 2.00 | 17.5 | MATCH | 22152146021
+II | 152 | Computer Science and Engineering (Cyber Security) | 105201 | 4.00 | 17.5 | MATCH | 22152146021
+II | 152 | Computer Science and Engineering (Cyber Security) | 105201P | 1.50 | 17.5 | MATCH | 22152146021
+II | 152 | Computer Science and Engineering (Cyber Security) | 105202 | 4.00 | 17.5 | MATCH | 22152146021
+II | 153 | Computer Science and Engineering (Data Science) | 100201 | 4.00 | 17.5 | MATCH | 22153132004
+II | 153 | Computer Science and Engineering (Data Science) | 100201P | 1.00 | 17.5 | MATCH | 22153132004
+II | 153 | Computer Science and Engineering (Data Science) | 100202 | 1.00 | 17.5 | MATCH | 22153132004
+II | 153 | Computer Science and Engineering (Data Science) | 100202P | 2.00 | 17.5 | MATCH | 22153132004
+II | 153 | Computer Science and Engineering (Data Science) | 105201 | 4.00 | 17.5 | MATCH | 22153132004
+II | 153 | Computer Science and Engineering (Data Science) | 105201P | 1.50 | 17.5 | MATCH | 22153132004
+II | 153 | Computer Science and Engineering (Data Science) | 105202 | 4.00 | 17.5 | MATCH | 22153132004
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100201 | 4.00 | 17.5 | MATCH | 22154149007
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100201P | 1.00 | 17.5 | MATCH | 22154149007
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100202 | 1.00 | 17.5 | MATCH | 22154149007
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100202P | 2.00 | 17.5 | MATCH | 22154149007
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105201 | 4.00 | 17.5 | MATCH | 22154149007
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105201P | 1.50 | 17.5 | MATCH | 22154149007
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105202 | 4.00 | 17.5 | MATCH | 22154149007
+II | 155 | Computer Science and Engineering (Internet of Things) | 100201 | 4.00 | 17.5 | MATCH | 22155126022
+II | 155 | Computer Science and Engineering (Internet of Things) | 100201P | 1.00 | 17.5 | MATCH | 22155126022
+II | 155 | Computer Science and Engineering (Internet of Things) | 100202 | 1.00 | 17.5 | MATCH | 22155126022
+II | 155 | Computer Science and Engineering (Internet of Things) | 100202P | 2.00 | 17.5 | MATCH | 22155126022
+II | 155 | Computer Science and Engineering (Internet of Things) | 105201 | 4.00 | 17.5 | MATCH | 22155126022
+II | 155 | Computer Science and Engineering (Internet of Things) | 105201P | 1.50 | 17.5 | MATCH | 22155126022
+II | 155 | Computer Science and Engineering (Internet of Things) | 105202 | 4.00 | 17.5 | MATCH | 22155126022
+II | 156 | Computer Science and Engineering (Networks) | 100201 | 4.00 | 17.5 | MATCH | 22156148013
+II | 156 | Computer Science and Engineering (Networks) | 100201P | 1.00 | 17.5 | MATCH | 22156148013
+II | 156 | Computer Science and Engineering (Networks) | 100202 | 1.00 | 17.5 | MATCH | 22156148013
+II | 156 | Computer Science and Engineering (Networks) | 100202P | 2.00 | 17.5 | MATCH | 22156148013
+II | 156 | Computer Science and Engineering (Networks) | 105201 | 4.00 | 17.5 | MATCH | 22156148013
+II | 156 | Computer Science and Engineering (Networks) | 105201P | 1.50 | 17.5 | MATCH | 22156148013
+II | 156 | Computer Science and Engineering (Networks) | 105202 | 4.00 | 17.5 | MATCH | 22156148013
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100201 | 4.00 | 17.5 | MATCH | 22157127020
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100201P | 1.00 | 17.5 | MATCH | 22157127020
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100202 | 1.00 | 17.5 | MATCH | 22157127020
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100202P | 2.00 | 17.5 | MATCH | 22157127020
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105201 | 4.00 | 17.5 | MATCH | 22157127020
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105201P | 1.50 | 17.5 | MATCH | 22157127020
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105202 | 4.00 | 17.5 | MATCH | 22157127020
+IV | 101 | Civil Engineering | 100408P | 2.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101401 | 2.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101402 | 2.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101403 | 2.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101403P | 1.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101404 | 3.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101404P | 1.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101405 | 3.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101406 | 2.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101406P | 1.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101407 | 3.00 | 26 | MATCH | 22101127003
+IV | 101 | Civil Engineering | 101408 | 4.00 | 26 | MATCH | 22101127003
+IV | 102 | Mechanical Engineering | 100408P | 2.00 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 102 | Mechanical Engineering | 102401 | 4.00 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 102 | Mechanical Engineering | 102402 | 4.00 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 102 | Mechanical Engineering | 102403 | 3.00 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 102 | Mechanical Engineering | 102403P | 1.50 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 102 | Mechanical Engineering | 102404 | 4.00 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 102 | Mechanical Engineering | 102405 | 3.00 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 102 | Mechanical Engineering | 102405P | 1.50 | 23 | DUPLICATE_SUPPORT | 21102102004,22102102001
+IV | 103 | Electrical Engineering | 100401 | 3.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 100403 | 3.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 100403P | 1.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 103401 | 3.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 103401P | 1.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 103402 | 3.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 103402P | 1.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 103403 | 4.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 103 | Electrical Engineering | 103404 | 3.00 | 22 | DUPLICATE_SUPPORT | 21103106001,22103106006
+IV | 104 | Electronics & Communication Engineering | 100408P | 2.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104401 | 3.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104401P | 1.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104402 | 3.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104402P | 1.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104403 | 4.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104403P | 1.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104404 | 4.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104405 | 3.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 104 | Electronics & Communication Engineering | 104405P | 1.00 | 23 | DUPLICATE_SUPPORT | 21104102001,22104134040
+IV | 105 | Computer Science & Engineering | 100403 | 3.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 100403P | 2.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 100404 | 4.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 100407 | 3.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 105401 | 3.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 105401P | 2.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 105402 | 3.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 105402P | 2.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 105403 | 3.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 105 | Computer Science & Engineering | 105403P | 2.00 | 27 | DUPLICATE_SUPPORT | 21105106003,22105102005
+IV | 106 | Information Technology | 100406 | 4.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 106 | Information Technology | 100407 | 3.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 106 | Information Technology | 106401 | 3.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 106 | Information Technology | 106401P | 2.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 106 | Information Technology | 106402 | 3.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 106 | Information Technology | 106402P | 2.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 106 | Information Technology | 106403 | 3.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 106 | Information Technology | 106403P | 2.00 | 22 | DUPLICATE_SUPPORT | 21106107018,22106107016
+IV | 107 | Leather Technology Engineering | 100408P | 2.00 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 107 | Leather Technology Engineering | 107401 | 3.00 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 107 | Leather Technology Engineering | 107401P | 1.50 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 107 | Leather Technology Engineering | 107402 | 3.00 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 107 | Leather Technology Engineering | 107403 | 3.00 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 107 | Leather Technology Engineering | 107404 | 3.00 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 107 | Leather Technology Engineering | 107405 | 3.00 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 107 | Leather Technology Engineering | 107405P | 1.50 | 20 | DUPLICATE_SUPPORT | 21107107005,22107107001
+IV | 110 | Electrical & Electronics Engineering | 100401 | 3.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110401 | 3.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110401P | 1.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110402 | 3.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110402P | 1.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110404 | 4.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110405 | 3.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110405P | 1.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110406 | 3.00 | 24 | MATCH | 22110103006
+IV | 110 | Electrical & Electronics Engineering | 110408 | 2.00 | 24 | MATCH | 22110103006
+IV | 112 | Fire Technology and Safety | 112401 | 4.00 | 20 | MATCH | 22112111002
+IV | 112 | Fire Technology and Safety | 112402 | 4.00 | 20 | MATCH | 22112111002
+IV | 112 | Fire Technology and Safety | 112403 | 3.00 | 20 | MATCH | 22112111002
+IV | 112 | Fire Technology and Safety | 112403P | 1.00 | 20 | MATCH | 22112111002
+IV | 112 | Fire Technology and Safety | 112404 | 3.00 | 20 | MATCH | 22112111002
+IV | 112 | Fire Technology and Safety | 112404P | 1.00 | 20 | MATCH | 22112111002
+IV | 112 | Fire Technology and Safety | 112405 | 3.00 | 20 | MATCH | 22112111002
+IV | 112 | Fire Technology and Safety | 112405P | 1.00 | 20 | MATCH | 22112111002
+IV | 113 | Mining Engineering | 113401 | 3.00 | 20 | MATCH | 22113124012
+IV | 113 | Mining Engineering | 113402 | 4.00 | 20 | MATCH | 22113124012
+IV | 113 | Mining Engineering | 113403 | 4.00 | 20 | MATCH | 22113124012
+IV | 113 | Mining Engineering | 113403P | 1.00 | 20 | MATCH | 22113124012
+IV | 113 | Mining Engineering | 113404 | 3.00 | 20 | MATCH | 22113124012
+IV | 113 | Mining Engineering | 113404P | 1.00 | 20 | MATCH | 22113124012
+IV | 113 | Mining Engineering | 113405 | 3.00 | 20 | MATCH | 22113124012
+IV | 113 | Mining Engineering | 113405P | 1.00 | 20 | MATCH | 22113124012
+IV | 114 | Chemical Engineering | 114401 | 3.00 | 21 | MATCH | 22114125006
+IV | 114 | Chemical Engineering | 114401P | 2.00 | 21 | MATCH | 22114125006
+IV | 114 | Chemical Engineering | 114402 | 3.00 | 21 | MATCH | 22114125006
+IV | 114 | Chemical Engineering | 114403 | 3.00 | 21 | MATCH | 22114125006
+IV | 114 | Chemical Engineering | 114404 | 3.00 | 21 | MATCH | 22114125006
+IV | 114 | Chemical Engineering | 114404P | 2.00 | 21 | MATCH | 22114125006
+IV | 114 | Chemical Engineering | 114405 | 3.00 | 21 | MATCH | 22114125006
+IV | 114 | Chemical Engineering | 114405P | 2.00 | 21 | MATCH | 22114125006
+IV | 115 | Food Processing and Preservation | 115401 | 4.00 | 20 | MATCH | 22115117003
+IV | 115 | Food Processing and Preservation | 115401P | 1.50 | 20 | MATCH | 22115117003
+IV | 115 | Food Processing and Preservation | 115402 | 3.00 | 20 | MATCH | 22115117003
+IV | 115 | Food Processing and Preservation | 115402P | 1.50 | 20 | MATCH | 22115117003
+IV | 115 | Food Processing and Preservation | 115403 | 3.00 | 20 | MATCH | 22115117003
+IV | 115 | Food Processing and Preservation | 115403P | 1.50 | 20 | MATCH | 22115117003
+IV | 115 | Food Processing and Preservation | 115404 | 4.00 | 20 | MATCH | 22115117003
+IV | 115 | Food Processing and Preservation | 115404P | 1.50 | 20 | MATCH | 22115117003
+IV | 116 | Aeronautical Engineering | 116401 | 4.00 | 19.5 | MATCH | 22116109002
+IV | 116 | Aeronautical Engineering | 116401P | 1.50 | 19.5 | MATCH | 22116109002
+IV | 116 | Aeronautical Engineering | 116402 | 4.00 | 19.5 | MATCH | 22116109002
+IV | 116 | Aeronautical Engineering | 116403 | 4.00 | 19.5 | MATCH | 22116109002
+IV | 116 | Aeronautical Engineering | 116404 | 4.00 | 19.5 | MATCH | 22116109002
+IV | 116 | Aeronautical Engineering | 116405P | 2.00 | 19.5 | MATCH | 22116109002
+IV | 118 | 3-D Animation and Graphics | 118401 | 3.00 | 21 | MATCH | 22118128004
+IV | 118 | 3-D Animation and Graphics | 118401P | 2.00 | 21 | MATCH | 22118128004
+IV | 118 | 3-D Animation and Graphics | 118402 | 3.00 | 21 | MATCH | 22118128004
+IV | 118 | 3-D Animation and Graphics | 118402P | 2.00 | 21 | MATCH | 22118128004
+IV | 118 | 3-D Animation and Graphics | 118403 | 3.00 | 21 | MATCH | 22118128004
+IV | 118 | 3-D Animation and Graphics | 118404 | 3.00 | 21 | MATCH | 22118128004
+IV | 118 | 3-D Animation and Graphics | 118404P | 2.00 | 21 | MATCH | 22118128004
+IV | 118 | 3-D Animation and Graphics | 118405 | 3.00 | 21 | MATCH | 22118128004
+IV | 119 | Civil Engineering With Computer Application | 119401 | 3.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119402 | 2.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119402P | 1.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119403 | 2.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119404 | 3.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119404P | 1.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119405 | 4.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119406 | 2.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119406P | 1.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119407P | 2.00 | 22 | MATCH | 22119113008
+IV | 119 | Civil Engineering With Computer Application | 119408P | 1.00 | 22 | MATCH | 22119113008
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 100403 | 3.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 100403P | 2.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 100404 | 4.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 100407 | 3.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 105401 | 3.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 105401P | 2.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 105402 | 3.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 105402P | 2.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 105403 | 3.00 | 27 | MATCH | 22151113025
+IV | 151 | Computer Science and Engineering (Artificial Intelligence) | 105403P | 2.00 | 27 | MATCH | 22151113025
+IV | 152 | Computer Science and Engineering (Cyber Security) | 100403 | 3.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 100403P | 2.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 100404 | 4.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 100407 | 3.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 105401 | 3.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 105401P | 2.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 105402 | 3.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 105402P | 2.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 105403 | 3.00 | 27 | MATCH | 22152146021
+IV | 152 | Computer Science and Engineering (Cyber Security) | 105403P | 2.00 | 27 | MATCH | 22152146021
+IV | 153 | Computer Science and Engineering (Data Science) | 100403 | 3.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 100403P | 2.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 100404 | 4.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 100407 | 3.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 105401 | 3.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 105401P | 2.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 105402 | 3.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 105402P | 2.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 105403 | 3.00 | 27 | MATCH | 22153132004
+IV | 153 | Computer Science and Engineering (Data Science) | 105403P | 2.00 | 27 | MATCH | 22153132004
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100403 | 3.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100403P | 2.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100404 | 4.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100407 | 3.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105401 | 3.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105401P | 2.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105402 | 3.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105402P | 2.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105403 | 3.00 | 27 | MATCH | 22154149007
+IV | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105403P | 2.00 | 27 | MATCH | 22154149007
+IV | 155 | Computer Science and Engineering (Internet of Things) | 100403 | 3.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 100403P | 2.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 100404 | 4.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 100407 | 3.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 105401 | 3.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 105401P | 2.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 105402 | 3.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 105402P | 2.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 105403 | 3.00 | 27 | MATCH | 22155126022
+IV | 155 | Computer Science and Engineering (Internet of Things) | 105403P | 2.00 | 27 | MATCH | 22155126022
+IV | 156 | Computer Science and Engineering (Networks) | 100403 | 3.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 100403P | 2.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 100404 | 4.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 100407 | 3.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 105401 | 3.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 105401P | 2.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 105402 | 3.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 105402P | 2.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 105403 | 3.00 | 27 | MATCH | 22156148013
+IV | 156 | Computer Science and Engineering (Networks) | 105403P | 2.00 | 27 | MATCH | 22156148013
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100403 | 3.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100403P | 2.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100404 | 4.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100407 | 3.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105401 | 3.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105401P | 2.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105402 | 3.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105402P | 2.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105403 | 3.00 | 27 | MATCH | 22157127020
+IV | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105403P | 2.00 | 27 | MATCH | 22157127020
+I | 101 | Civil Engineering | 100101 | 4.00 | 17.5 | MATCH | 22101127003
+I | 101 | Civil Engineering | 100101P | 1.00 | 17.5 | MATCH | 22101127003
+I | 101 | Civil Engineering | 100102 | 1.00 | 17.5 | MATCH | 22101127003
+I | 101 | Civil Engineering | 100102P | 2.00 | 17.5 | MATCH | 22101127003
+I | 101 | Civil Engineering | 101101 | 4.00 | 17.5 | MATCH | 22101127003
+I | 101 | Civil Engineering | 101101P | 1.50 | 17.5 | MATCH | 22101127003
+I | 101 | Civil Engineering | 101102 | 4.00 | 17.5 | MATCH | 22101127003
+I | 102 | Mechanical Engineering | 100101 | 4.00 | 17.5 | MATCH | 22102102001
+I | 102 | Mechanical Engineering | 100101P | 1.00 | 17.5 | MATCH | 22102102001
+I | 102 | Mechanical Engineering | 100102 | 1.00 | 17.5 | MATCH | 22102102001
+I | 102 | Mechanical Engineering | 100102P | 2.00 | 17.5 | MATCH | 22102102001
+I | 102 | Mechanical Engineering | 102101 | 4.00 | 17.5 | MATCH | 22102102001
+I | 102 | Mechanical Engineering | 102101P | 1.50 | 17.5 | MATCH | 22102102001
+I | 102 | Mechanical Engineering | 102102 | 4.00 | 17.5 | MATCH | 22102102001
+I | 103 | Electrical Engineering | 100103 | 4.00 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 100103P | 1.50 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 100104 | 3.00 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 100104P | 2.00 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 100105 | 1.00 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 100105P | 2.00 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 100106 | 2.00 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 100106P | 1.00 | 20.5 | MATCH | 22103106006
+I | 103 | Electrical Engineering | 103102 | 4.00 | 20.5 | MATCH | 22103106006
+I | 104 | Electronics & Communication Engineering | 100103 | 4.00 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 100103P | 1.50 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 100104 | 3.00 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 100104P | 2.00 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 100105 | 1.00 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 100105P | 2.00 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 100106 | 2.00 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 100106P | 1.00 | 20.5 | MATCH | 22104134040
+I | 104 | Electronics & Communication Engineering | 103102 | 4.00 | 20.5 | MATCH | 22104134040
+I | 105 | Computer Science & Engineering | 100103 | 4.00 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 100103P | 1.50 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 100104 | 3.00 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 100104P | 2.00 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 100105 | 1.00 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 100105P | 2.00 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 100106 | 2.00 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 100106P | 1.00 | 20.5 | MATCH | 22105102005
+I | 105 | Computer Science & Engineering | 105102 | 4.00 | 20.5 | MATCH | 22105102005
+I | 106 | Information Technology | 100101 | 4.00 | 17.5 | MATCH | 22106107016
+I | 106 | Information Technology | 100101P | 1.00 | 17.5 | MATCH | 22106107016
+I | 106 | Information Technology | 100102 | 1.00 | 17.5 | MATCH | 22106107016
+I | 106 | Information Technology | 100102P | 2.00 | 17.5 | MATCH | 22106107016
+I | 106 | Information Technology | 105101 | 4.00 | 17.5 | MATCH | 22106107016
+I | 106 | Information Technology | 105101P | 1.50 | 17.5 | MATCH | 22106107016
+I | 106 | Information Technology | 105102 | 4.00 | 17.5 | MATCH | 22106107016
+I | 107 | Leather Technology Engineering | 100101 | 4.00 | 17.5 | MATCH | 22107107001
+I | 107 | Leather Technology Engineering | 100101P | 1.00 | 17.5 | MATCH | 22107107001
+I | 107 | Leather Technology Engineering | 100102 | 1.00 | 17.5 | MATCH | 22107107001
+I | 107 | Leather Technology Engineering | 100102P | 2.00 | 17.5 | MATCH | 22107107001
+I | 107 | Leather Technology Engineering | 102101 | 4.00 | 17.5 | MATCH | 22107107001
+I | 107 | Leather Technology Engineering | 102101P | 1.50 | 17.5 | MATCH | 22107107001
+I | 107 | Leather Technology Engineering | 102102 | 4.00 | 17.5 | MATCH | 22107107001
+I | 110 | Electrical & Electronics Engineering | 100103 | 4.00 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 100103P | 1.50 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 100104 | 3.00 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 100104P | 2.00 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 100105 | 1.00 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 100105P | 2.00 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 100106 | 2.00 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 100106P | 1.00 | 20.5 | MATCH | 22110103006
+I | 110 | Electrical & Electronics Engineering | 103102 | 4.00 | 20.5 | MATCH | 22110103006
+I | 112 | Fire Technology and Safety | 100101 | 4.00 | 17.5 | MATCH | 22112111002
+I | 112 | Fire Technology and Safety | 100101P | 1.00 | 17.5 | MATCH | 22112111002
+I | 112 | Fire Technology and Safety | 100102 | 1.00 | 17.5 | MATCH | 22112111002
+I | 112 | Fire Technology and Safety | 100102P | 2.00 | 17.5 | MATCH | 22112111002
+I | 112 | Fire Technology and Safety | 102101 | 4.00 | 17.5 | MATCH | 22112111002
+I | 112 | Fire Technology and Safety | 102101P | 1.50 | 17.5 | MATCH | 22112111002
+I | 112 | Fire Technology and Safety | 102102 | 4.00 | 17.5 | MATCH | 22112111002
+I | 113 | Mining Engineering | 100101 | 4.00 | 17.5 | MATCH | 22113124012
+I | 113 | Mining Engineering | 100101P | 1.00 | 17.5 | MATCH | 22113124012
+I | 113 | Mining Engineering | 100102 | 1.00 | 17.5 | MATCH | 22113124012
+I | 113 | Mining Engineering | 100102P | 2.00 | 17.5 | MATCH | 22113124012
+I | 113 | Mining Engineering | 102101 | 4.00 | 17.5 | MATCH | 22113124012
+I | 113 | Mining Engineering | 102101P | 1.50 | 17.5 | MATCH | 22113124012
+I | 113 | Mining Engineering | 102102 | 4.00 | 17.5 | MATCH | 22113124012
+I | 114 | Chemical Engineering | 100103 | 4.00 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 100103P | 1.50 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 100104 | 3.00 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 100104P | 2.00 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 100105 | 1.00 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 100105P | 2.00 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 100106 | 2.00 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 100106P | 1.00 | 20.5 | MATCH | 22114125006
+I | 114 | Chemical Engineering | 103102 | 4.00 | 20.5 | MATCH | 22114125006
+I | 115 | Food Processing and Preservation | 100101 | 4.00 | 17.5 | MATCH | 22115117003
+I | 115 | Food Processing and Preservation | 100101P | 1.00 | 17.5 | MATCH | 22115117003
+I | 115 | Food Processing and Preservation | 100102 | 1.00 | 17.5 | MATCH | 22115117003
+I | 115 | Food Processing and Preservation | 100102P | 2.00 | 17.5 | MATCH | 22115117003
+I | 115 | Food Processing and Preservation | 101101 | 4.00 | 17.5 | MATCH | 22115117003
+I | 115 | Food Processing and Preservation | 101101P | 1.50 | 17.5 | MATCH | 22115117003
+I | 115 | Food Processing and Preservation | 101102 | 4.00 | 17.5 | MATCH | 22115117003
+I | 116 | Aeronautical Engineering | 100101 | 4.00 | 17.5 | MATCH | 22116109002
+I | 116 | Aeronautical Engineering | 100101P | 1.00 | 17.5 | MATCH | 22116109002
+I | 116 | Aeronautical Engineering | 100102 | 1.00 | 17.5 | MATCH | 22116109002
+I | 116 | Aeronautical Engineering | 100102P | 2.00 | 17.5 | MATCH | 22116109002
+I | 116 | Aeronautical Engineering | 102101 | 4.00 | 17.5 | MATCH | 22116109002
+I | 116 | Aeronautical Engineering | 102101P | 1.50 | 17.5 | MATCH | 22116109002
+I | 116 | Aeronautical Engineering | 102102 | 4.00 | 17.5 | MATCH | 22116109002
+I | 117 | Biomedical and Robotic Engineering | 100103 | 4.00 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 100103P | 1.50 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 100104 | 3.00 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 100104P | 2.00 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 100105 | 1.00 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 100105P | 2.00 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 100106 | 2.00 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 100106P | 1.00 | 20.5 | MATCH | 22117107003
+I | 117 | Biomedical and Robotic Engineering | 103102 | 4.00 | 20.5 | MATCH | 22117107003
+I | 118 | 3-D Animation and Graphics | 100103 | 4.00 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 100103P | 1.50 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 100104 | 3.00 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 100104P | 2.00 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 100105 | 1.00 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 100105P | 2.00 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 100106 | 2.00 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 100106P | 1.00 | 20.5 | MATCH | 22118128004
+I | 118 | 3-D Animation and Graphics | 105102 | 4.00 | 20.5 | MATCH | 22118128004
+I | 119 | Civil Engineering With Computer Application | 100101 | 4.00 | 17.5 | MATCH | 22119113008
+I | 119 | Civil Engineering With Computer Application | 100101P | 1.00 | 17.5 | MATCH | 22119113008
+I | 119 | Civil Engineering With Computer Application | 100102 | 1.00 | 17.5 | MATCH | 22119113008
+I | 119 | Civil Engineering With Computer Application | 100102P | 2.00 | 17.5 | MATCH | 22119113008
+I | 119 | Civil Engineering With Computer Application | 101101 | 4.00 | 17.5 | MATCH | 22119113008
+I | 119 | Civil Engineering With Computer Application | 101101P | 1.50 | 17.5 | MATCH | 22119113008
+I | 119 | Civil Engineering With Computer Application | 101102 | 4.00 | 17.5 | MATCH | 22119113008
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100103 | 4.00 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100103P | 1.50 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100104 | 3.00 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100104P | 2.00 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100105 | 1.00 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100105P | 2.00 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100106 | 2.00 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100106P | 1.00 | 20.5 | MATCH | 22151113025
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 105102 | 4.00 | 20.5 | MATCH | 22151113025
+I | 152 | Computer Science and Engineering (Cyber Security) | 100103 | 4.00 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 100103P | 1.50 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 100104 | 3.00 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 100104P | 2.00 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 100105 | 1.00 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 100105P | 2.00 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 100106 | 2.00 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 100106P | 1.00 | 20.5 | MATCH | 22152146021
+I | 152 | Computer Science and Engineering (Cyber Security) | 105102 | 4.00 | 20.5 | MATCH | 22152146021
+I | 153 | Computer Science and Engineering (Data Science) | 100103 | 4.00 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 100103P | 1.50 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 100104 | 3.00 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 100104P | 2.00 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 100105 | 1.00 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 100105P | 2.00 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 100106 | 2.00 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 100106P | 1.00 | 20.5 | MATCH | 22153132004
+I | 153 | Computer Science and Engineering (Data Science) | 105102 | 4.00 | 20.5 | MATCH | 22153132004
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100103 | 4.00 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100103P | 1.50 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100104 | 3.00 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100104P | 2.00 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100105 | 1.00 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100105P | 2.00 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100106 | 2.00 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100106P | 1.00 | 20.5 | MATCH | 22154149007
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105102 | 4.00 | 20.5 | MATCH | 22154149007
+I | 155 | Computer Science and Engineering (Internet of Things) | 100103 | 4.00 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 100103P | 1.50 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 100104 | 3.00 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 100104P | 2.00 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 100105 | 1.00 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 100105P | 2.00 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 100106 | 2.00 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 100106P | 1.00 | 20.5 | MATCH | 22155126022
+I | 155 | Computer Science and Engineering (Internet of Things) | 105102 | 4.00 | 20.5 | MATCH | 22155126022
+I | 156 | Computer Science and Engineering (Networks) | 100103 | 4.00 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 100103P | 1.50 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 100104 | 3.00 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 100104P | 2.00 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 100105 | 1.00 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 100105P | 2.00 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 100106 | 2.00 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 100106P | 1.00 | 20.5 | MATCH | 22156148013
+I | 156 | Computer Science and Engineering (Networks) | 105102 | 4.00 | 20.5 | MATCH | 22156148013
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100103 | 4.00 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100103P | 1.50 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100104 | 3.00 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100104P | 2.00 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100105 | 1.00 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100105P | 2.00 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100106 | 2.00 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100106P | 1.00 | 20.5 | MATCH | 22157127020
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105102 | 4.00 | 20.5 | MATCH | 22157127020
